@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D04_OOP_Abstraction", "D04_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E01_OOP_Calculator", "E01_OOP_Calculator\E01_OOP_Calculator.csproj", "{A90818B4-BAF4-4D64-BCB1-EBDD22606E56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D05_OOP_Interfaces", "D05_OOP_Interfaces\D05_OOP_Interfaces.csproj", "{A369679A-AC68-4937-8F6A-2DCBC24AC2A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A90818B4-BAF4-4D64-BCB1-EBDD22606E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A90818B4-BAF4-4D64-BCB1-EBDD22606E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A90818B4-BAF4-4D64-BCB1-EBDD22606E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A369679A-AC68-4937-8F6A-2DCBC24AC2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A369679A-AC68-4937-8F6A-2DCBC24AC2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A369679A-AC68-4937-8F6A-2DCBC24AC2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A369679A-AC68-4937-8F6A-2DCBC24AC2A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
